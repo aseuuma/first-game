@@ -2,6 +2,7 @@ import pygame
 import random
 import math
 # Initialize Pygame
+#first try 
 pygame.init()
 
 SCREEN_WIDTH = 800
