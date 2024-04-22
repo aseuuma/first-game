@@ -36,10 +36,10 @@ grenade_thrown = False
 
 
 #load images
-pine1_img = pygame.image.load('img/Background/5.png').convert_alpha()
-pine2_img = pygame.image.load('img/Background/2.png').convert_alpha()
-mountain_img = pygame.image.load('img/Background/3.png').convert_alpha()
-sky_img = pygame.image.load('img/Background/1.png').convert_alpha()
+pine1_img = pygame.image.load('5.png').convert_alpha()
+pine2_img = pygame.image.load('2.png').convert_alpha()
+mountain_img = pygame.image.load('3.png').convert_alpha()
+sky_img = pygame.image.load('1.png').convert_alpha()
 #store tiles in a list
 img_list = []
 for x in range(TILE_TYPES):
